@@ -20,4 +20,4 @@ Ada keindahan dan kesedihan yang terangkai dalam puisi tersebut. Sebelum Alm. Ba
 
 <h1>Arsitektur Model</h1>
 
-<p>Model ini sangat sederhana (yang mana nanti bisa berubah menjadi lebih kompleks) dengan menggunakan framework Tensorflow 2 dan menggunakan Sequantial API dari Keras. Karena perkembangan yang pesat dari NLP, bukan tidak mungkin ke depannya model pada repository ini akan menggunakan Transformers dengan beberapa perubahan tentunya. Model akan terdiri dari 4 layer, dimana layer pertama berupa input, lalu ada layer embedding, dan 2 layer full connected. Berikut adalah gambar arsitekturnya.</p>
+<p>Model ini sangat sederhana (yang mana nanti bisa berubah menjadi lebih kompleks) dengan menggunakan framework Tensorflow 2 dan menggunakan Sequential API dari Keras. Karena perkembangan yang pesat dari NLP, bukan tidak mungkin ke depannya model pada repository ini akan menggunakan Transformers dengan beberapa perubahan tentunya. Model akan terdiri dari 4 layer, dimana layer pertama berupa input, lalu ada layer embedding, dan 2 layer full connected. Berikut adalah gambar arsitekturnya.</p>
