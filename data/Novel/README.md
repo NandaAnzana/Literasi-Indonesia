@@ -1,8 +1,6 @@
 <h1>Novel</h1>
 
 <p>Ini merupakan data kumpulan Novel baik dari sastrawan di Indonesia dan juga Novel dari para kontributor. Jika kalian ingin:</p>
-<br>
-<br>
 <h3>1. Menambahkan sastrawan yang foldernya belum ada di sini</h3>
 <p>Kalian bisa membuat folder baru sesuai nama sastrawan tersebut dan masukkan karyanya di dalam folder dalam bentuk file txt. Satu file txt mengandung semua Novel dari sastrawan tersebut. Setiap Novel yang ada di dalam file dibatasi dengan 3 kali enter, dan judul dengan isi Novel dibatasi dengan 2 kali enter.</p>
 <br>
